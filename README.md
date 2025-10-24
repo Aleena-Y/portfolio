@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+# Personal Portfolio
+![Recording 2025-10-24 160629](https://github.com/user-attachments/assets/88062b69-1fb0-45e4-9dd6-57ec660474c0)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+A modern, interactive portfolio website built with React featuring smooth animations, 3D elements, and a unique design aesthetic.
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- Interactive 3D elements and animations
+- Gooey navigation menu
+- Art gallery with infinite scroll
+- Responsive design
+- Contact form with glassmorphic UI
+- Experience timeline
+- Project showcase
+- Smooth scrolling navigation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ Built With
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- Three.js
+- Framer Motion
+- CSS3 with modern features
+- HTML5
 
-### `npm test`
+## 🏃‍♀️ Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+- Node.js (v14 or higher)
+- npm
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository
+```bash
+git clone https://github.com/Aleena-Y/portfolio.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Navigate to project directory
+```bash
+cd portfolio
+```
 
-### `npm run eject`
+3. Install dependencies
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Start the development server
+```bash
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🎨 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+portfolio/
+├── public/
+│   ├── bar.glb
+│   ├── cube.glb
+│   └── lens.glb
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.js
+│   └── index.js
+└── package.json
+```
 
-## Learn More
+## 📝 Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Navigate through sections using the gooey menu
+- Interact with 3D elements
+- Explore the infinite art gallery
+- Fill out the contact form to get in touch
+- View experience timeline and projects
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
 
-### Code Splitting
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📄 License
 
-### Analyzing the Bundle Size
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 👏 Acknowledgments
 
-### Making a Progressive Web App
+- Three.js for 3D graphics
+- React community for inspiration
+- [List any other resources/inspirations]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📧 Contact
 
-### Advanced Configuration
+Your Name - [Your Email]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project Link: [https://github.com/Aleena-Y/portfolio](https://github.com/Aleena-Y/portfolio)
