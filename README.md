@@ -89,15 +89,3 @@ portfolio/
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## 👏 Acknowledgments
-
-- Three.js for 3D graphics
-- React community for inspiration
-- [List any other resources/inspirations]
-
-## 📧 Contact
-
-Your Name - [Your Email]
-
-Project Link: [https://github.com/Aleena-Y/portfolio](https://github.com/Aleena-Y/portfolio)
